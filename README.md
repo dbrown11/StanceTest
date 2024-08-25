@@ -50,3 +50,12 @@ Select a simulator or a connected device in Xcode and hit the Run button (Cmd + 
 API Configuration
 The app fetches workout data from a predefined API endpoint. No additional configuration is needed, but you can update the API URL in the WorkoutAPI class if required.
 
+Test Questions.
+
+Detailed build and run instructions: Simply open the app, and an onAppear call will pull the workout data.
+
+A summary of your implementation decisions: I decided to implement a list view for all the Sets, showing the speed and intensity of each rep. This allows the user to visually see how their performance is changing from set to set.
+
+Total time spent on the project: 2 hours.
+
+
